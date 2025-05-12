@@ -1,0 +1,405 @@
+﻿#;Magyar név;Latin név;Érték;Év
+1;álarcos réce;Anas americana;25000;2001
+2;alka;Alca torda;25000;1954
+3;amerikai pettyeslile;Pluvialis dominicus;25000;2001
+4;amuri vércse;Falco amurensis;25000;2001
+5;apácahantmadár;Oenanthe pleschanka;25000;1954
+6;apácalúd;Branta leucopsis;25000;1971
+7;apró partfutó;Calidris minuta;25000;1954
+8;aranylile;Pluvialis apricaria;25000;1901
+9;ázsiai pettyeslile;Pluvialis fulva;25000;2001
+10;Baird-partfutó;Calidris bairdii;25000;2001
+11;bajszos poszáta;Sylvia cantillans;25000;2012
+12;bajszos sármány;Emberiza cia;100000;1901
+13;bakcsó;Nycticorax nycticorax;100000;1954
+14;balkáni fakopáncs;Dendrocopos syriacus;25000;1954
+15;barátcinege;Parus palustris (Poecile palustris);25000;1901
+16;barátkeselyű;Aegypius monachus;250000;1954
+17;barátposzáta;Sylvia atricapilla;25000;1901
+18;barátréce;Aythya ferina;50000;2008
+19;barázdabillegető;Motacilla alba;25000;1901
+20;barkóscinege;Panurus biarmicus;50000;1901
+21;barna füzike;Phylloscopus fuscatus;25000;2001
+22;barna kánya;Milvus migrans;500000;1971
+23;barna rétihéja;Circus aeruginosus;50000;1971
+24;barnahasú pusztaityúk;Pterocles exustus;25000;1954
+25;batla;Plegadis falcinellus;500000;1912
+26;békászó sas;Aquila pomarina (Clanga pomarina);1000000;1954
+27;berki nádiposzáta;Acrocephalus dumetorum;25000;2001
+28;berki poszáta;Cettia cetti;25000;2001
+29;berki tücsökmadár;Locustella fluviatilis;50000;1901
+30;berki veréb;Passer hispaniolensis;25000;2001
+31;bíbic;Vanellus vanellus;50000;1901
+32;billegetőcankó;Actitis hypoleucos;50000;1954
+33;böjti réce;Anas querquedula (Spatula querquedula);100000;2008
+34;bölömbika;Botaurus stellaris;100000;1954
+35;Bonaparte-partfutó;Calidris fuscicollis;25000;2001
+36;Bonelli-füzike;Phylloscopus bonelli;25000;1993
+37;borzas gödény;Pelecanus crispus;500000;1954
+38;búbos cinege;Parus cristatus (Lophophanes cristatus);25000;1901
+39;búbos pacsirta;Galerida cristata;50000;1901
+40;búbos réce;Aythya affinis;25000;2001
+41;búbos vöcsök;Podiceps cristatus;50000;1954
+42;búbosbanka;Upupa epops;50000;1901
+43;bütykös ásólúd;Tadorna tadorna;50000;1971
+44;bütykös hattyú;Cygnus olor;25000;1954
+45;cankópartfutó;Tryngites subruficollis (Calidris subruficollis);50000;1996
+46;cifra pehelyréce;Somateria spectabilis;25000;1971
+47;cigánycsuk;Saxicola torquatus;25000;1901
+48;cigányréce;Aythya nyroca;500000;1971
+49;citrombillegető;Motacilla citreola;25000;1993
+50;citromsármány;Emberiza citrinella;25000;1901
+51;császármadár;Tetrastes bonasia (Bonasa bonasia);500000;1954
+52;cserregő nádiposzáta;Acrocephalus scirpaceus;25000;1901
+53;csicsörke;Serinus serinus;25000;1901
+54;csigaforgató;Haematopus ostralegus;25000;1954
+55;csíkosfejű nádiposzáta;Acrocephalus paludicola;1000000;1901
+56;csilpcsalpfüzike;Phylloscopus collybita;25000;1901
+57;csíz;Carduelis spinus;25000;1901
+58;csóka;Corvus monedula;50000;1901
+59;csonttollú;Bombycilla garrulus;25000;1954
+60;csörgő réce;Anas crecca;50000;2012
+61;csüllő;Rissa tridactyla;25000;1954
+62;csuszka;Sitta europaea;25000;1901
+63;dankasirály;Larus ridibundus (Chroicocephalus ridibundus);50000;1901
+64;darázsölyv;Pernis apivorus;100000;1954
+65;daru;Grus grus;50000;1954
+66;déli geze;Hippolais polyglotta;25000;2001
+67;déli hantmadár;Oenanthe hispanica;25000;1954
+68;dögkeselyű;Neophron percnopterus;250000;1954
+69;dolmányos sirály;Larus marinus;25000;1988
+70;egerészölyv;Buteo buteo;25000;1954
+71;ékfarkú halfarkas;Stercorarius parasiticus;25000;1954
+72;ékfarkú lile;Charadrius vociferus;25000;1988
+73;Eleonóra-sólyom;Falco eleonorae;250000;1971
+74;énekes hattyú;Cygnus cygnus;50000;1954
+75;énekes nádiposzáta;Acrocephalus palustris;25000;1901
+76;énekes rigó;Turdus philomelos;25000;1901
+77;erdei cankó;Tringa ochropus;25000;1954
+78;erdei fülesbagoly;Asio otus;50000;1901
+79;erdei pacsirta;Lullula arborea;50000;1901
+80;erdei pinty;Fringilla coelebs;25000;1901
+81;erdei pityer;Anthus trivialis;25000;1901
+82;erdei sármány;Emberiza rustica;25000;2012
+83;erdei szürkebegy;Prunella modularis;25000;1901
+84;északi búvár;Gavia stellata;25000;1971
+85;északi sólyom;Falco rusticolus;100000;1996
+86;ezüstlile;Pluvialis squatarola;25000;1901
+87;ezüstsirály;Larus argentatus;25000;1954
+88;fakó keselyű;Gyps fulvus;250000;1954
+89;fakó rétihéja;Circus macrourus;250000;1954
+90;fattyúszerkő;Chlidonias hybrida;100000;1901
+91;fecskesirály;Xema sabini;25000;1954
+92;fehér gólya;Ciconia ciconia;100000;1906
+93;fehérfarkú lilebíbic;Vanellus leucurus (Chettusia leucura);25000;1988
+94;fehérhátú fakopáncs;Dendrocopos leucotos;250000;1901
+95;fehérkarmú vércse;Falco naumanni;500000;1906
+96;fehérszárnyú szerkő;Chlidonias leucopterus;250000;1901
+97;fekete gólya;Ciconia nigra;500000;1906
+98;fekete harkály;Dryocopus martius;50000;1901
+99;fekete réce;Melanitta nigra;50000;1971
+100;fekete rigó;Turdus merula;25000;1901
+101;fekete sas;Aquila clanga (Clanga clanga);500000;1954
+102;feketenyakú vöcsök;Podiceps nigricollis;100000;1954
+103;feketeszárnyú székicsér;Glareola nordmanni;500000;1901
+104;feketetorkú rigó;Turdus atrogularis;25000;2001
+105;feketetorkú szürkebegy;Prunella atrogularis;25000;2001
+106;Feldegg-sólyom;Falco biarmicus;100000;1996
+107;fenyérfutó;Calidris alba;25000;1954
+108;fenyőpinty;Fringilla montifringilla;25000;1901
+109;fenyőrigó;Turdus pilaris;25000;1954
+110;fenyősármány;Emberiza leucocephalos;25000;1988
+111;fenyőszajkó;Nucifraga caryocatactes;25000;1954
+112;fenyvescinege;Parus ater (Periparus ater);25000;1901
+113;fitiszfüzike;Phylloscopus trochilus;25000;1901
+114;foltos nádiposzáta;Acrocephalus schoenobaenus;25000;1901
+115;függőcinege;Remiz pendulinus;50000;1901
+116;fülemüle;Luscinia megarhynchos;25000;1901
+117;fülemülesitke;Acrocephalus melanopogon;50000;1901
+118;füles vöcsök;Podiceps auritus;50000;1954
+119;füleskuvik;Otus scops;100000;1901
+120;fürj;Coturnix coturnix;50000;1971
+121;füsti fecske;Hirundo rustica;50000;1901
+122;füstös cankó;Tringa erythropus;25000;1954
+123;füstös réce;Melanitta fusca;250000;1971
+124;fütyülő réce;Anas penelope (Mareca penelope);50000;1993
+125;gatyás ölyv;Buteo lagopus;50000;1954
+126;gatyáskuvik;Aegolius funereus;50000;1901
+127;gólyatöcs;Himantopus himantopus;250000;1954
+128;gulipán;Recurvirostra avosetta;250000;1954
+129;guvat;Rallus aquaticus;50000;1954
+130;gyöngybagoly;Tyto alba;100000;1901
+131;gyurgyalag;Merops apiaster;100000;1954
+132;gyűrűscsőrű sirály;Larus delawarensis;25000;1993
+133;hajnalmadár;Tichodroma muraria;50000;1901
+134;halászsas;Pandion haliaetus;500000;1954
+135;halászsirály;Larus ichthyaetus (Ichthyaetus ichthyaetus);25000;1993
+136;halvány geze;Hippolais pallida (Iduna pallida);50000;1954
+137;halvány sarlósfecske;Apus pallidus;25000;2001
+138;hamvas küllő;Picus canus;50000;1901
+139;hamvas rétihéja;Circus pygargus;500000;1954
+140;hantmadár;Oenanthe oenanthe;50000;1901
+141;haris;Crex crex;500000;1971
+142;havasi csóka;Pyrrhocorax graculus;25000;1954
+143;havasi fülespacsirta;Eremophila alpestris;50000;1901
+144;havasi lile;Charadrius morinellus;50000;1901
+145;havasi partfutó;Calidris alpina;25000;1954
+146;havasi pityer;Anthus spinoletta;25000;1901
+147;havasi sarlósfecske;Apus melba;25000;2001
+148;havasi szürkebegy;Prunella collaris;25000;1901
+149;havasi varjú;Pyrrhocorax pyrrhocorax;25000;1954
+150;havasipinty;Montifringilla nivalis;25000;1901
+151;házi rozsdafarkú;Phoenicurus ochruros;25000;1901
+152;házi veréb;Passer domesticus;25000;2001
+153;hegyesfarkú partfutó;Calidris acuminata;25000;2001
+154;hegyi billegető;Motacilla cinerea;50000;1901
+155;hegyi fakusz;Certhia familiaris;25000;1901
+156;hegyi réce;Aythya marila;50000;1971
+157;héja;Accipiter gentilis;50000;1971
+158;héjasas;Hieraaetus fasciatus;250000;1954
+159;heringsirály;Larus fuscus;50000;1954
+160;himalájai füzike;Phylloscopus humei;25000;2001
+161;hóbagoly;Bubo scandiacus (Nyctea scandiaca);100000;1954
+162;holló;Corvus corax;50000;1954
+163;hósármány;Plectrophenax nivalis;25000;1901
+164;hosszúcsőrű cankógoda;Limnodromus scolopaceus;25000;1996
+165;hosszúfarkú cankó;Bartramia longicauda;25000;2001
+166;indiai lúd;Anser indicus;25000;1971
+167;jeges búvár;Gavia immer;25000;1954
+168;jeges sirály;Larus hyperboreus;25000;1954
+169;jegesréce;Clangula hyemalis;250000;1971
+170;jégmadár;Alcedo atthis;50000;1954
+171;kabasólyom;Falco subbuteo;50000;1954
+172;kacagócsér;Gelochelidon nilotica (Sterna nilotica);50000;1954
+173;kakukk;Cuculus canorus;50000;1901
+174;kalandrapacsirta;Melanocorypha calandra;25000;1954
+175;kanalas réce;Anas clypeata (Spatula clypeata);50000;1971
+176;kanalasgém;Platalea leucorodia;500000;1912
+177;karmazsinpirók;Carpodacus erythrinus;25000;1988
+178;karvaly;Accipiter nisus;50000;1971
+179;karvalybagoly;Surnia ulula;50000;1954
+180;karvalyposzáta;Sylvia nisoria;50000;1901
+181;kék cinege;Parus caeruleus (Cyanistes caeruleus);25000;1901
+182;kék fú;Porphyrio porphyrio;25000;1971
+183;kék galamb;Columba oenas;50000;1971
+184;kék kövirigó;Monticola solitarius;25000;2012
+185;kék vércse;Falco vespertinus;500000;1906
+186;kékbegy;Luscinia svecica;50000;1901
+187;kékcsőrű réce;Oxyura leucocephala;500000;1954
+188;kékes rétihéja;Circus cyaneus;50000;1971
+189;kékfarkú;Tarsiger cyanurus;25000;2012
+190;kékszárnyú réce;Anas discors;25000;2001
+191;keleti gerle;Streptopelia orientalis;25000;1988
+192;kenderike;Carduelis cannabina;25000;1901
+193;kendermagos réce;Anas strepera (Mareca strepera);50000;1971
+194;kenti csér;Sterna sandvicensis (Thalasseus sandvicensis) ;25000;1954
+195;kerceréce;Bucephala clangula;50000;1971
+196;kerecsensólyom;Falco cherrug;1000000;1954
+197;keresztcsőrű;Loxia curvirostra;25000;1954
+198;kerti geze;Hippolais icterina;25000;1901
+199;kerti poszáta;Sylvia borin;50000;1954
+200;kerti rozsdafarkú;Phoenicurus phoenicurus;50000;1901
+201;kerti sármány;Emberiza hortulana;500000;1901
+202;kígyászölyv;Circaetus gallicus;1000000;1954
+203;kínai üstökösgém;Ardeola bacchus;25000;2001
+204;királyfüzike;Phylloscopus proregulus;25000;2001
+205;kis bukó;Mergus albellus;50000;1971
+206;kis csér;Sterna albifrons (Sternula albifrons);500000;1954
+207;kis fakopáncs;Dendrocopos minor (Dryobates minor);50000;1901
+208;kis geze;Hippolais caligata (Iduna caligata);25000;2001
+209;kis goda;Limosa lapponica;25000;1954
+210;kis hattyú;Cygnus columbianus;50000;1954
+211;kis héja;Accipiter brevipes;500000;1954
+212;kis kárókatona;Phalacrocorax pygmeus;100000;1954
+213;kis kócsag;Egretta garzetta;250000;1912
+214;kis légykapó;Ficedula parva;100000;1901
+215;kis lile;Charadrius dubius;50000;1901
+216;kis lilik;Anser erythropus;1000000;1982
+217;kis őrgébics;Lanius minor;50000;1954
+218;kis partfutó;Calidris pusilla;25000;2001
+219;kis póling;Numenius phaeopus;50000;1954
+220;kis poszáta;Sylvia curruca;25000;1901
+221;kis sárszalonka;Lymnocryptes minimus;25000;1971
+222;kis sirály;Larus minutus (Hydrocoloeus minutus);25000;1954
+223;kis sólyom;Falco columbarius;50000;1954
+224;kis vízicsibe;Porzana parva (Zapornia parva);50000;1954
+225;kis vöcsök;Tachybaptus ruficollis;50000;1954
+226;kőforgató;Arenaria interpres;25000;1954
+227;kontyos réce;Aythya fuligula;50000;1971
+228;korallsirály;Larus audouinii;50000;2012
+229;kormos légykapó;Ficedula hypoleuca;25000;1901
+230;kormos szerkő;Chlidonias niger;250000;1901
+231;kormos varjú;Corvus corone corone;25000;1954
+232;kormosfejű cinege;Parus montanus (Poecile montanus);25000;1901
+233;kövirigó;Monticola saxatilis;500000;1901
+234;közép fakopáncs;Dendrocopos medius (Leiopicus medius);50000;1901
+235;kucsmás poszáta;Sylvia melanocephala;25000;1982
+236;kucsmás sármány;Emberiza melanocephala;25000;1996
+237;kuhi;Elanus caeruleus;50000;2012
+238;küszvágó csér;Sterna hirundo;100000;1954
+239;kuvik;Athene noctua;100000;1901
+240;laposcsőrű víztaposó;Phalaropus fulicarius;25000;1954
+241;lappantyú;Caprimulgus europaeus;50000;1901
+242;léprigó;Turdus viscivorus;50000;1901
+243;lilebíbic;Vanellus gregarius (Chettusia gregaria);500000;1954
+244;lócsér;Sterna caspia (Hydroprogne caspia);50000;1954
+245;lunda;Fratercula arctica;25000;1954
+246;macskabagoly;Strix aluco;50000;1954
+247;márványos réce;Marmaronetta angustirostris;250000;1971
+248;meggyvágó;Coccothraustes coccothraustes;25000;1954
+249;mezei pacsirta;Alauda arvensis;25000;1901
+250;mezei poszáta;Sylvia communis;25000;1901
+251;mezei veréb;Passer montanus;25000;2001
+252;molnárfecske;Delichon urbicum;50000;1901
+253;nádi sármány;Emberiza schoeniclus;25000;1901
+254;nádi tücsökmadár;Locustella luscinioides;50000;1901
+255;nádirigó;Acrocephalus arundinaceus;25000;1901
+256;nagy bukó;Mergus merganser;50000;1971
+257;nagy fakopáncs;Dendrocopos major;25000;1901
+258;nagy fülemüle;Luscinia luscinia;100000;1901
+259;nagy goda;Limosa limosa;500000;1954
+260;nagy halfarkas;Stercorarius skua;25000;1954
+261;nagy kárókatona;Phalacrocorax carbo;25000;1954
+262;nagy kócsag;Egretta alba (Ardea alba, Casmerodius albus);100000;1912
+263;nagy őrgébics;Lanius excubitor;50000;1954
+264;nagy pirók;Pinicola enucleator;25000;1954
+265;nagy póling;Numenius arquata;500000;1954
+266;nagy sárszalonka;Gallinago media;250000;1971
+267;Naumann-rigó;Turdus naumanni;25000;1954
+268;nyaktekercs;Jynx torquilla;50000;1901
+269;nyílfarkú halfarkas;Stercorarius longicaudus;25000;1954
+270;nyílfarkú réce;Anas acuta;50000;1971
+271;nyírfajd;Tetrao tetrix (Lyrurus tetrix);50000;1954
+272;ökörszem;Troglodytes troglodytes;25000;1901
+273;örvös bukó;Mergus serrator;50000;1971
+274;örvös légykapó;Ficedula albicollis;25000;1901
+275;örvös lúd;Branta bernicla;50000;1971
+276;örvös réce;Aythya collaris;25000;2001
+277;örvös rigó;Turdus torquatus;25000;1901
+278;őszapó;Aegithalos caudatus;25000;1901
+279;pajzsoscankó;Philomachus pugnax (Calidris pugnax);50000;1954
+280;parlagi pityer;Anthus campestris;50000;1901
+281;parlagi sas;Aquila heliaca;1000000;1954
+282;pártásdaru;Anthropoides virgo (Grus virgo);50000;1954
+283;parti lile;Charadrius hiaticula;25000;1901
+284;partifecske;Riparia riparia;50000;1901
+285;pásztorgém;Bubulcus ibis;25000;1954
+286;pásztormadár;Sturnus roseus (Pastor roseus);50000;1901
+287;pehelyréce;Somateria mollissima;50000;1971
+288;pettyes kakukk;Clamator glandarius;25000;2012
+289;pettyes vízicsibe;Porzana porzana;50000;1954
+290;piroslábú cankó;Tringa totanus;250000;1954
+291;prérisirály;Larus pipixcan;25000;1993
+292;pusztai hantmadár;Oenanthe isabellina;25000;2001
+293;pusztai ölyv;Buteo rufinus;100000;1954
+294;pusztai sas;Aquila nipalensis;250000;1954
+295;réti cankó;Tringa glareola;25000;1954
+296;réti fülesbagoly;Asio flammeus;250000;1901
+297;réti pityer;Anthus pratensis;25000;1901
+298;réti tücsökmadár;Locustella naevia;50000;1901
+299;rétisas;Haliaeetus albicilla;1000000;1954
+300;reznek;Tetrax tetrax;500000;1954
+301;rövidcsőrű lúd;Anser brachyrhynchus;25000;1971
+302;rövidkarmú fakusz;Certhia brachydactyla;25000;1901
+303;rózsás flamingó;Phoenicopterus ruber;50000;1954
+304;rózsás gödény;Pelecanus onocrotalus;250000;1954
+305;rózsás pirók;Carpodacus roseus;25000;1954
+306;rozsdás csuk;Saxicola rubetra;25000;1901
+307;rozsdás nádiposzáta;Acrocephalus agricola;25000;1982
+308;rozsdástorkú pityer;Anthus cervinus;25000;1901
+309;sárga billegető;Motacilla flava;25000;1901
+310;sárgacsőrű kenderike;Carduelis flavirostris;25000;1954
+311;sárgafejű királyka;Regulus regulus;25000;1901
+312;sárgalábú cankó;Tringa flavipes;25000;1971
+313;sárgalábú sirály;Larus michahellis;25000;2001
+314;sárgarigó;Oriolus oriolus;25000;1901
+315;sárjáró;Limicola falcinellus (Calidris falcinellus);25000;1954
+316;sarkantyús pityer;Anthus richardi;25000;1996
+317;sarkantyús sármány;Calcarius lapponicus;25000;1901
+318;sarki búvár;Gavia arctica;25000;1971
+319;sarki csér;Sterna paradisaea;25000;1993
+320;sarki lúd;Anser caerulescens;25000;2001
+321;sarki partfutó;Calidris canutus;25000;1954
+322;sarki sirály;Larus glaucoides;25000;1954
+323;sarlós partfutó;Calidris ferruginea;25000;1954
+324;sarlósfecske;Apus apus;25000;1901
+325;sárszalonka;Gallinago gallinago;100000;1993
+326;seregély;Sturnus vulgaris;25000;1901
+327;siketfajd;Tetrao urogallus;50000;1954
+328;sisegő füzike;Phylloscopus sibilatrix;25000;1901
+329;sivatagi hantmadár;Oenanthe deserti;25000;1993
+330;sivatagi lile;Charadrius leschenaultii;25000;1993
+331;sordély;Emberiza calandra (Miliaria calandra);25000;1901
+332;sövénysármány;Emberiza cirlus;50000;1954
+333;Steller-pehelyréce;Polysticta stelleri;250000;2001
+334;süvöltő;Pyrrhula pyrrhula;25000;1901
+335;szalagos keresztcsőrű;Loxia leucoptera;25000;1993
+336;szalakóta;Coracias garrulus;500000;1901
+337;széki lile;Charadrius alexandrinus;1000000;1901
+338;székicsér;Glareola pratincola;500000;1901
+339;szélesfarkú halfarkas;Stercorarius pomarinus;25000;1954
+340;széncinege;Parus major;25000;1901
+341;szerecsensirály;Larus melanocephalus;100000;1954
+342;szibériai csilpcsalpfüzike;Phylloscopus tristis;25000;2022
+343;szibériai szürkebegy;Prunella montanella;25000;2001
+344;sziki pacsirta;Calandrella brachydactyla;500000;1954
+345;szirti sas;Aquila chrysaetos;500000;1954
+346;szirtifecske;Ptyonoprogne rupestris;25000;2001
+347;szőlőrigó;Turdus iliacus;25000;1901
+348;sztyeppi lile;Charadrius asiaticus;25000;2001
+349;sztyeppi sirály;Larus cachinnans;25000;2001
+350;szuharbújó;Cisticola juncidis;25000;2012
+351;szürke cankó;Tringa nebularia;25000;1954
+352;szürke gém;Ardea cinerea;50000;1971
+353;szürke légykapó;Muscicapa striata;50000;1901
+354;szürke zsezse;Carduelis hornemanni;25000;1954
+355;talpastyúk;Syrrhaptes paradoxus;25000;1954
+356;tavi cankó;Tringa stagnatilis;250000;1954
+357;Temminck-partfutó;Calidris temminckii;25000;1954
+358;tengelic;Carduelis carduelis;25000;1901
+359;tengeri partfutó;Calidris maritima;25000;1954
+360;terekcankó;Xenus cinereus;25000;1954
+361;töcspartfutó;Calidris himantopus;25000;2001
+362;törpegém;Ixobrychus minutus;100000;1954
+363;törpekuvik;Glaucidium passerinum;50000;1901
+364;törpesármány;Emberiza pusilla;25000;2001
+365;törpesas;Hieraaetus pennatus;500000;1954
+366;törpevízicsibe;Porzana pusilla (Zapornia pusilla);500000;1954
+367;tövisszúró gébics;Lanius collurio;25000;1954
+368;trombitás sivatagipinty;Bucanetes githagineus;25000;2022
+369;tüskés bíbic;Vanellus spinosusus (Hoplopterus spinos);25000;1996
+370;tüzesfejű királyka;Regulus ignicapillus;25000;1901
+371;túzok;Otis tarda;1000000;1971
+372;ugartyúk;Burhinus oedicnemus;500000;1901
+373;uhu;Bubo bubo;500000;1954
+374;urali bagoly;Strix uralensis;100000;1954
+375;üstökösgém;Ardeola ralloides;500000;1912
+376;üstökösréce;Netta rufina;50000;1971
+377;vadgerle;Streptopelia turtur;50000;1971
+378;vándorfüzike;Phylloscopus inornatus;25000;1993
+379;vándorpartfutó;Calidris melanotos;25000;1988
+380;vándorsólyom;Falco peregrinus;500000;1954
+381;vastagcsőrű füzike;Phylloscopus schwarzi;25000;2001
+382;vékonycsőrű póling;Numenius tenuirostris;1000000;1954
+383;vékonycsőrű sirály;Larus genei (Chroicocephalus genei);25000;1993
+384;vékonycsőrű víztaposó;Phalaropus lobatus;25000;1954
+385;vetési varjú;Corvus frugilegus;50000;2001
+386;viharsirály;Larus canus;25000;1954
+387;vízirigó;Cinclus cinclus;500000;1904
+388;vízityúk;Gallinula chloropus;25000;1954
+389;vörhenyes fecske;Hirundo daurica (Cecropis daurica);25000;2001
+390;vörhenyes sármány;Emberiza rutila;25000;2001
+391;vörös ásólúd;Tadorna ferruginea;25000;1971
+392;vörös gém;Ardea purpurea;250000;1954
+393;vörös kánya;Milvus milvus;500000;1954
+394;vörös vércse;Falco tinnunculus;50000;1906
+395;vörösbegy;Erithacus rubecula;25000;1901
+396;vörösfejű gébics;Lanius senator;50000;1954
+397;vörösnyakú lúd;Branta ruficollis;1000000;1971
+398;vörösnyakú vöcsök;Podiceps grisegena;250000;1954
+399;Wilson-víztaposó;Phalaropus tricolor;25000;2001
+400;zátonykócsag;Egretta gularis;25000;2001
+401;zöld gyurgyalag;Merops persicus;25000;2001
+402;zöld küllő;Picus viridis;50000;1901
+403;zöldike;Carduelis chloris;25000;1901
+404;zsezse;Carduelis flammea;25000;1901
