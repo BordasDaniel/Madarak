@@ -44,22 +44,20 @@
             Console.WriteLine(madarak.Count);
 
             Console.WriteLine("2. feladat");
-            Console.WriteLine(madarak.Where(x => x.MagyarNev == "gyurgyalag").First().Ev);
+            Console.WriteLine(madarak.First(x => x.MagyarNev == "gyurgyalag").Ev);
 
             Console.WriteLine("3. feladat");
             Console.Write("Kérem, adja meg a keresett madár magyar nevét: ");
             string felhasznaloMadara = Console.ReadLine();
 
-            var keresettMadar = madarak.Where(x => x.MagyarNev == felhasznaloMadara).First();
+            var keresettMadar = madarak.FirstOrDefault(x => x.MagyarNev == felhasznaloMadara);
 
             Console.WriteLine($"Magyar név: {keresettMadar.MagyarNev}, latin neve: {keresettMadar.LatinNev}");
 
             Console.WriteLine("4. feladat");
 
-            foreach (var item in madarak.Where(x => x.Ertek >= 50000))
-            {
-                Console.WriteLine(item.MagyarNev);
-            }
+            List<Madar> legalabb = madarak.Where(x => x.Ertek >= 50000).ToList();
+            Console.WriteLine($"{legalabb.Count} madár van amelynek az értéke legalább 50.000Ft");
 
             Console.WriteLine("5. feladat");
 
